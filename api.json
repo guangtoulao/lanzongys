@@ -2,13 +2,14 @@
   "spider": "http://tv.laohu.cool/laohu1030.jar;md5;facdf4dc270faa9b1ad4febb82031de9",
   "wallpaper": "https://bing.img.run/uhd.php",
   "sites": [
-       {
-      "key": "豆瓣",
+     {
+      "key": "豆豆",
       "name": "兰总祝您观影愉快",
       "type": 3,
-      "api": "csp_Douban",
+      "api": "csp_DouDou",
       "searchable": 0,
-      "changeable": 1
+      "quickSearch": 0,
+      "filterable": 0
     },
 
         {
