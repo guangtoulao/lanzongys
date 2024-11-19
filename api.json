@@ -498,7 +498,7 @@
     {
       "name": "①live",
       "type": 0,
-      "url": "./lib/kx2024.txt",
+      "url": "https://raw.githubusercontent.com/guangtoulao/ttkx/refs/heads/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83.json/lib/kx2024.txt",
       "ua": "okhttp/3",
       "playerType": 1,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -507,7 +507,7 @@
     {
       "name": "②Live(EXO)",
       "type": 0,
-      "url": "./lib/kx2024.txt",
+      "url": "https://raw.githubusercontent.com/guangtoulao/ttkx/refs/heads/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83.json/lib/kx2024.txt",
       "playerType": 2,
       "ua": "okhttp/3",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
