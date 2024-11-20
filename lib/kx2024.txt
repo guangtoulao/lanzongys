@@ -1891,10 +1891,10 @@ NewTV 炫舞未来,http://[2409:8087:5e08:24::11]:6610/000000001000/100000000100
 2021年中央广播电视总台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
 2022年中央广播电视总台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
  2023年中央广播电视总台春节联欢晚会,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
- 2024年中央广播电视总台春节联欢晚会【CCTV1综合频道】,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-2024年中央广播电视总台春节联欢晚会【CCTV4K超高清频道】https://v10.dious.cc/20240209/4AK9UB5p/index.m3u8
-2024年辽宁卫视春节联欢晚会（上）,https://v10.dious.cc/20240209/J95B9fT5/index.m3u8
-2024年辽宁卫视春节联欢晚会（下）,https://v10.dious.cc/20240209/HWVp60d1/index.m3u8
+ 2024年中央广播电视总台春节联欢晚会,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2024年中央广播电视总台春节联欢晚会https://v10.dious.cc/20240209/4AK9UB5p/index.m3u8
+2024年辽宁卫视春节联欢晚会上,https://v10.dious.cc/20240209/J95B9fT5/index.m3u8
+2024年辽宁卫视春节联欢晚会下,https://v10.dious.cc/20240209/HWVp60d1/index.m3u8
 2024年深圳卫视春节联欢晚会,https://v10.dious.cc/20240209/DKcsA9sZ/index.m3u8
 2024年安徽卫视春节联欢晚会,https://v10.dious.cc/20240208/LHLdSBLv/index.m3u8
 2024吉林春晚,https://v10.dious.cc/20240208/9ahrnAPw/index.m3u8
@@ -1908,6 +1908,7 @@ NewTV 炫舞未来,http://[2409:8087:5e08:24::11]:6610/000000001000/100000000100
 2024年陕西卫视春节联欢晚会https://v10.dious.cc/20240210/yYlVw3Ur/index.m3u8
 2024安徽卫视农民春节联欢晚会,https://v10.dious.cc/20240210/UnLrYixW/index.m3u8
 2024年中国杂技大联欢,https://v10.dious.cc/20240210/672HyyQ9/index.m3u8
-启航2024 CCTV跨年晚会【CCTV综艺频道】,https://v10.dious.cc/20240101/jb33ogNp/index.m3u8
+启航2024 CCTV跨年晚会,https://v10.dious.cc/20240101/jb33ogNp/index.m3u8
 2024年珠江春节联欢晚会,https://v10.dious.cc/20240209/lNN6pUqq/index.m3u8
-2024年中央广播电视总台网络春节联欢晚会【CCTV综合频道】,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
+2024年中央广播电视总台网络春节联欢晚会,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
+
