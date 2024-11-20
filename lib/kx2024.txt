@@ -1391,7 +1391,7 @@ JJ斗地主赛事,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000
 启航2024 CCTV跨年晚会【CCTV综艺频道】,https://v10.dious.cc/20240101/jb33ogNp/index.m3u8
 2024年珠江春节联欢晚会,https://v10.dious.cc/20240209/lNN6pUqq/index.m3u8
 2024年中央广播电视总台网络春节联欢晚会【CCTV综合频道】,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
-    ,#genre#
+   天天 #genre#
 天天开心线路0,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
 天天开心线路1,mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6
 天天开心线路2,mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
