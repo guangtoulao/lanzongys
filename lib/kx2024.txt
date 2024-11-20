@@ -1394,11 +1394,6 @@ PPTV6,http://39.134.136.161:6610/000000001000/3000000001000010129/index.m3u8?liv
 PPTV7,http://39.134.136.161:6610/000000001000/3000000001000010948/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000010948
 PPTV8,http://39.134.136.161:6610/000000001000/3000000001000007218/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000007218
 PPTV9,http://39.134.136.161:6610/000000001000/3000000001000005308/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000005308
-咪咕全民热练 8M,http://39.134.136.161:6610/000000001000/3000000020000031315/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000031315
-咪咕全民热练 8M,http://39.134.136.161:6610/000000001000/1000000006000270007/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270007
-咪咕全民热练 8M,http://39.134.136.161:6610/000000001000/2000000003000000068/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000068
-咪咕冬奥-直击 8M,http://39.134.136.161:6610/000000001000/1000000006000270006/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270006
-咪咕冬奥-雪上 8M,http://39.134.136.161:6610/000000001000/1000000006000270005/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270005
 
 
 [1280*720]CCTV1,http://39.134.136.161:6610/000000001000/reallive-cctv1/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv1
@@ -1869,4 +1864,3 @@ NewTV 炫舞未来,http://[2409:8087:5e08:24::11]:6610/000000001000/100000000100
 启航2024 CCTV跨年晚会,https://v10.dious.cc/20240101/jb33ogNp/index.m3u8
 2024年珠江春节联欢晚会,https://v10.dious.cc/20240209/lNN6pUqq/index.m3u8
 2024年中央广播电视总台网络春节联欢晚会,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
-
