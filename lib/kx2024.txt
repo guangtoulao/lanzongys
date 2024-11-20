@@ -1360,8 +1360,8 @@ JJ斗地主赛事,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000
 北京淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
 北京淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001
 北京淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
-电影星爷@代,http://cfss.cc/cdn/hy/11342412.flv
-周星驰典@代,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
+电影星爷代,http://cfss.cc/cdn/hy/11342412.flv
+周星驰典代,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 超级电影ipv6,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 军旅剧场ipv6,http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 海外剧场ipv6,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
@@ -1373,7 +1373,7 @@ CCtv6影院代,http://hikvision.city:880/CCTV-6.m3u8
 惊嫊悬疑电影,http://[2409:8087:1a0b:df::4002]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 梨园卫视,http://222.223.118.222:2180/live/lypd/index.m3u8
 梨园频道ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-黑莓电影@代,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
+黑莓电影代,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
 黑莓动画代,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/1.m3u8
 超级电影ipv6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电视ipv6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -1389,10 +1389,6 @@ CCtv6影院代,http://hikvision.city:880/CCTV-6.m3u8
 李连杰,https://live.metshop.top/huya/11342390
 甄子丹,https://live.metshop.top/huya/11352935
 刘德华,https://live.metshop.top/huya/11342424
-邱淑贞,https://live.metshop.top/huya/11352949
-女神系列,https://live.metshop.top/huya/11336571
-片,https://live.metshop.top/huya/11342399
-bang派,https://live.metshop.top/huya/11336719
 科幻动作,https://live.metshop.top/huya/11352964
 国产喜剧,https://live.metshop.top/huya/11602044
 五福星,https://live.metshop.top/huya/11282233
@@ -1409,7 +1405,6 @@ bang派,https://live.metshop.top/huya/11336719
 李世民,https://live.metshop.top/huya/11336572
 港产搞笑,https://live.metshop.top/huya/11342423
 滇军抗战,https://live.metshop.top/huya/11342388
-经典女神,https://live.metshop.top/huya/11352909
 爱情公寓,https://live.metshop.top/huya/11336726
 士兵突击,https://live.metshop.top/huya/11342430
 玄幻剧场,https://live.metshop.top/huya/11342414
