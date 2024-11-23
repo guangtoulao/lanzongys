@@ -382,7 +382,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://vip.wwgz.cn/"
+      "ext": "https://vip.wwgz.cn/",
+      "jar":"./lib/ttkx.jar"
     },
     {
       "key": "蚂蚁",
