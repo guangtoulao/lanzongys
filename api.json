@@ -318,6 +318,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
+      "jar":"./lib/ttkx.jar",
       "timeout": 20,
       "categories": [
         "剧情片",
@@ -384,6 +385,58 @@
       "filterable": 1,
       "ext": "https://vip.wwgz.cn/",
       "jar":"./lib/ttkx.jar"
+    },
+       {
+      "key": "闪雷影视",
+      "name": "闪雷┃JS",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/js/闪雷影视.js",
+       "jar":"./lib/ttkx.jar"
+    },
+    {
+      "key": "金牌影视",
+      "name": "金牌影视",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/js/金牌影视.js",
+       "jar":"./lib/ttkx.jar"
+    },
+    {
+      "key": "hipy_js_采集之王",
+      "name": "采集之王[合]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/采集之王[合].js?type=url&params=../lib/采集静态.json$1",
+       "jar":"./lib/ttkx.jar"
+    },
+      {
+      "key": "看了么_js",
+      "name": "看了么",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/js/看了么.js",
+       "jar":"./lib/ttkx.jar"
+    },
+    {
+      "key": "可可影视[优]_js",
+      "name": "‍可可影视",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/js/可可影视[优].js",
+       "jar":"./lib/ttkx.jar"
     },
     {
       "key": "蚂蚁",
