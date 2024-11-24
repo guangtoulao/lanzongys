@@ -141,6 +141,85 @@
       "filterable": 1,
       "ext": ""
     },
+     {
+      "key": "Wexshandian",
+      "name": "闪电秒播",
+      "type": 3,
+      "api": "csp_Wexshandian",
+      "searchable": 1,
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731848960931/wex.txt;md5;ad89290b2827c73514863bf47d58d336",
+      "changeable": 1
+    },
+     {
+      "key": "Wexwencai",
+      "name": "文才秒播",
+      "type": 3,
+      "api": "csp_Wexwencai",
+      "searchable": 1,
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731848960931/wex.txt;md5;ad89290b2827c73514863bf47d58d336",
+      "changeable": 1
+    },
+    {
+      "key": "Wexxpgtv",
+      "name": "苹果秒播",
+      "type": 3,
+      "api": "csp_Wexxpgtv",
+      "searchable": 1,
+       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731848960931/wex.txt;md5;ad89290b2827c73514863bf47d58d336",
+      "changeable": 1
+    },
+       {
+      "key": "Wex4Kav",
+      "name": "急速秒播",
+      "type": 3,
+      "api": "csp_Wex4Kav",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexbaipiao",
+      "name": "星星秒播",
+      "type": 3,
+      "api": "csp_Wexbaipiao",
+      "searchable": 1,
+       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731848960931/wex.txt;md5;ad89290b2827c73514863bf47d58d336",
+      "changeable": 1
+    },
+    {
+      "key": "Wexsaohuo",
+      "name": "火火秒播",
+      "type": 3,
+      "api": "csp_Wexsaohuo",
+      "searchable": 1,
+       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731848960931/wex.txt;md5;ad89290b2827c73514863bf47d58d336",
+      "changeable": 1
+    },
+       {
+      "key": "Wex4Kav",
+      "name": "急速秒播",
+      "type": 3,
+      "api": "csp_Wex4Kav",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexbaipiao",
+      "name": "星星秒播",
+      "type": 3,
+      "api": "csp_Wexbaipiao",
+      "searchable": 1,
+       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731848960931/wex.txt;md5;ad89290b2827c73514863bf47d58d336",
+      "changeable": 1
+    },
+    {
+      "key": "Wexsaohuo",
+      "name": "火火秒播",
+      "type": 3,
+      "api": "csp_Wexsaohuo",
+      "searchable": 1,
+       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731848960931/wex.txt;md5;ad89290b2827c73514863bf47d58d336",
+      "changeable": 1
+    },
       {
       "key": "雨滴",
       "name": "雨滴┃App",
