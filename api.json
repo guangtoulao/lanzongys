@@ -210,63 +210,9 @@
       "type": 1,
       "api": "http://zy.xiaomaomi.cc/api.php/provide/vod"
     },
-        {
-      "key": "文采",
-      "name": "文采",
-      "type": 3,
-      "api": "csp_Jpys",
-      "jar": "./fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    }, 
+ 
 {"key":"T4-caiji","name":"影视┃采集","type":4,"api":"https://catbox.n13.club/t4/caiji.php"},
-{"key":"T4-黑狐","name":"影视┃黑狐","type":4,"api":"https://catbox.n13.club/t4/heihu.php"},  
- {
-      "key": "萌米",
-      "name": "影视-萌米",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 1,
-      "jar": "./fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
-      {
-            "key": "木星",
-            "name": "木星多线",
-            "type": 3,
-            "api": "csp_AppSx",
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "./fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
-            "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
-        },
-       {
-            "key": "欢视",
-            "name": "欢视多线",
-            "type": 3,
-            "api": "csp_AppTT",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "./fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
-            "changeable": 1,
-            "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
-        },
-        {
-            "key": "可可",
-            "name": "可可多线",
-            "type": 3,
-            "api": "csp_Kekys",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "./fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
-            "changeable": 1
-        },
+
     {
       "key": "追剧",
       "name": "追剧┃秒播",
